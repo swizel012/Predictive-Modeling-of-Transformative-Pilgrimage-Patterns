@@ -10,7 +10,7 @@ During large-scale religious events like the Exposition of St. Francis Xavier, m
 - 🙏 Veneration of Relics
 - 🕊️ Mass
 </br>
-  ![Streamlit app Preview](StreamlitApp.gif)  
+  ![Streamlit app Preview](StreamlitApp)  
 </br>
 ## 🧠 Machine Learning Model
 
