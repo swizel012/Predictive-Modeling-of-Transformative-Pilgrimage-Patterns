@@ -42,7 +42,6 @@ During large-scale religious events like the Exposition of St. Francis Xavier, m
 
 bash
 - pip install streamlit scikit-learn joblib numpy
-- streamlit run app.py
 
 2. **Run the app**
 - bash
@@ -66,8 +65,8 @@ Dataset includes:
 - Weekend/Feast day indicators
 
 ## Target:
-Multi-label output (0/1) for each event type
-Output: Binary vector representing attended event(s)
+Multi-label output for events predicted
+
 
 ## 🚀 Features
 Multi-label event prediction
