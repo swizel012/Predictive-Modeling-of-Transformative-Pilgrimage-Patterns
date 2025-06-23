@@ -9,7 +9,9 @@ During large-scale religious events like the Exposition of St. Francis Xavier, m
 - 🎭 Fair/Cultural Event/Sightseeing
 - 🙏 Veneration of Relics
 - 🕊️ Mass
-
+</br>
+  ![Streamlit app Preview](Streamlit app recording.gif)  
+</br>
 ## 🧠 Machine Learning Model
 
 - **Model**: Gradient Boosting Classifier (multi-label classification)
@@ -52,7 +54,7 @@ Select age, gender, state, visitor type, stay details, and date context
 Get predicted event recommendations
 
 ## 🖼️ App Interface
-The app uses a background image (background.jpg) for visual appeal and includes multiple dropdowns for user inputs. The result is shown after clicking "Predict Events".
+The app uses multiple dropdowns for user inputs. The result is shown after clicking "Predict Events".
 
 ## 📊 Model Training
 Dataset includes:
