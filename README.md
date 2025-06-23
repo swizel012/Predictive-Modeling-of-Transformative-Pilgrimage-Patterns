@@ -24,8 +24,8 @@ During large-scale religious events like the Exposition of St. Francis Xavier, m
 📂 BasilicaEventPrediction
 │
 ├── app.py # Streamlit app for event prediction
-├── model_train.ipynb # Notebook for training and saving the ML model with encoders
-├── classification_event.ipynb # Notebook for data preprocessing, label binarization, and EDA
+├── model_selctn.ipynb #Notebook for data preprocessing, label binarization, EDA, and model selection
+├── GBM_model.ipynb #  Notebook for training and saving the ML model with encoders
 ├── gradient1_model.joblib # Trained ML model file
 ├── le_gender.joblib # Label encoder for Gender
 ├── le_state.joblib # Label encoder for State/Country
