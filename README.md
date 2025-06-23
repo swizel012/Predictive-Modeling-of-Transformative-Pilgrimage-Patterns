@@ -9,9 +9,9 @@ During large-scale religious events like the Exposition of St. Francis Xavier, m
 - 🎭 Fair/Cultural Event/Sightseeing
 - 🙏 Veneration of Relics
 - 🕊️ Mass
-</br>
+
 ![Animation Preview](animation.gif)  
-</br>
+
 
 ## 🧠 Machine Learning Model
 
